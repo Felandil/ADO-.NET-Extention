@@ -1,9 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="AdoNetExample.cs" company="Felandil IT">
-//   Copyright (c) 2014 - 2016 Felandil IT. All rights reserved.
-// </copyright>
-// --------------------------------------------------------------------------------------------------------------------
-namespace Felandil.AdoNetExtension.Example
+﻿namespace Felandil.AdoNetExtension.Example
 {
   using System.Data;
   using System.Data.SqlClient;

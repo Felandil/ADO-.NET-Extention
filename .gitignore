@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+*.nupkg
+*.nuspec
+
 # Build results
 
 [Dd]ebug/
@@ -16,6 +19,7 @@ build/
 [Oo]bj/
 packages/
 Logs/
+.vs/
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/
